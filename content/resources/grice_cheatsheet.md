@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fb87d835-9ccc-35fc-87c8-53f21307cbea
 resourcetype: Document
 title: grice_cheatsheet.pdf
 uid: 0a1afef1-52e2-bab1-ef82-2683df935a53

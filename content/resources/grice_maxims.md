@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fb87d835-9ccc-35fc-87c8-53f21307cbea
 resourcetype: Document
 title: grice_maxims.pdf
 uid: 254775f3-7d06-3431-57e0-be2ba01266ba

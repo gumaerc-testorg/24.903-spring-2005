@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: fb87d835-9ccc-35fc-87c8-53f21307cbea
 ---
@@ -265,7 +266,7 @@ Gricean Story about "or" again
 
 _Required Reading_
 
-A refrigerator summary of Grice's maxims ([PDF]({{< baseurl >}}/resources/grice_maxims)), and a sample derivation of a quantity implicature ([PDF]({{< baseurl >}}/resources/grice_cheatsheet)), meant to replace the calculation on pp. 201-202 of Portner's book.
+A refrigerator summary of Grice's maxims ({{< resource_link 254775f3-7d06-3431-57e0-be2ba01266ba "PDF" >}}), and a sample derivation of a quantity implicature ({{< resource_link 0a1afef1-52e2-bab1-ef82-2683df935a53 "PDF" >}}), meant to replace the calculation on pp. 201-202 of Portner's book.
 
 
 {{< tdclose >}}

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: sherlock2.jpg
 uid: 264ed35a-e90a-6357-bfd9-472b9133a2ad

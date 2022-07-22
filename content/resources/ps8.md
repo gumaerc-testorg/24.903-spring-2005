@@ -5,6 +5,7 @@ file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps8.pdf
 uid: 927e785e-a2a5-b779-b6c8-d57b74e63f68
 ---
 This resource contains an assignment on some quantifiers.
-

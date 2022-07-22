@@ -5,6 +5,7 @@ file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: 5d507f0d-62bc-ae44-9aa8-ac1275272e2e
 ---
 This resource contains an assignment based on utterances.
-

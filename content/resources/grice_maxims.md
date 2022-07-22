@@ -6,6 +6,7 @@ file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: grice_maxims.pdf
 uid: 254775f3-7d06-3431-57e0-be2ba01266ba
 ---
 This resource explains: The Cooperative Principle, The Maxims, and Working Out an Implicature.
-

@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2005",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -39,6 +40,7 @@
     "website": "24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005"
   },
   "learning_resource_types": [],
-  "site_uid": "34ff30a6-24f5-41fc-ab98-71407612e998",
+  "site_uid": "d48dee87-0749-4953-aaa5-11b4474fa66a",
+  "site_short_id": "24.903-spring-2005",
   "title": "Course Metadata"
 }

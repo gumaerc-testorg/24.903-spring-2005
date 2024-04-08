@@ -331,7 +331,7 @@ Brief Discussion of Vagueness
 
 _Required Reading_
 
-Read the [article on disjunction](http://plato.stanford.edu/entries/disjunction/) by R. E. Jennings in the _Stanford Encyclopedia of Philosophy_. Read especially carefully the section on "[The Myth of _Vel_ and _Aut_](http://plato.stanford.edu/entries/disjunction/#7)."
+Read the {{% resource_link "0a5dc939-2669-4071-a9fb-dd9a57275797" "article on disjunction" %}} by R. E. Jennings in the _Stanford Encyclopedia of Philosophy_. Read especially carefully the section on "{{% resource_link "42b198e6-d86c-4ee7-936f-8bfa5e8f42f8" "The Myth of _Vel_ and _Aut_" %}}."
 
 
 {{< tdclose >}}

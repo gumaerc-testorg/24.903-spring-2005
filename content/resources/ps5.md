@@ -4,6 +4,7 @@ description: This resource includes the assignment on "the article on disjunctio
   by R.E. Jennings in the Stanford Encyclopedia of Philosophy and about the section
   on ?The Myth of Vel and Aut.?
 file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/9ed2599f0e791bee53c05866454a6840_ps5.pdf
+file_size: 36334
 file_type: application/pdf
 learning_resource_types:
 - Assignments

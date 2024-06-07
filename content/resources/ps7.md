@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains an assignment on an example with one definite
   description embedded in another.
 file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/b2b9d5d8069b4e8c45808a86ee4c5eba_ps7.pdf
+file_size: 20156
 file_type: application/pdf
 learning_resource_types:
 - Assignments

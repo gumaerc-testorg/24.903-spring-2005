@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains simple exercises in propositional logic.
 file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/a7d21583d3be38da6ce35c4f51e2d61b_ps3.pdf
+file_size: 32697
 file_type: application/pdf
 learning_resource_types:
 - Assignments

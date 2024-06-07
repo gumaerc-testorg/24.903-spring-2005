@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/264ed35ae90a6357bfd9472b9133a2ad_sherlock2.jpg
+file_size: 79806
 file_type: image/jpeg
 image_metadata:
   caption: ''

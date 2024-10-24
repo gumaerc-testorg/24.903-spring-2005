@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a sample derivation of a quantity implicature
   which is meant to replace the calculation on pp. 201-202 of Portner's book.
-file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/0a1afef152e2bab1ef822683df935a53_grice_cheatsheet.pdf
+file: /ol-ocw-studio-app/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/0a1afef152e2bab1ef822683df935a53_grice_cheatsheet.pdf
 file_size: 81674
 file_type: application/pdf
 learning_resource_types:

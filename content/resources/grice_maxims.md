@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource explains: The Cooperative Principle, The Maxims, and Working
   Out an Implicature.'
-file: /ol-ocw-studio-app/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/254775f37d06343157e0be2ba01266ba_grice_maxims.pdf
+file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/254775f37d06343157e0be2ba01266ba_grice_maxims.pdf
 file_size: 64467
 file_type: application/pdf
 learning_resource_types:

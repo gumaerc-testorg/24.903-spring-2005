@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an assignment based on utterances.
-file: /ol-ocw-studio-app/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/5d507f0d62bcae449aa8ac1275272e2e_ps1.pdf
+file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/5d507f0d62bcae449aa8ac1275272e2e_ps1.pdf
 file_size: 85857
 file_type: application/pdf
 learning_resource_types:

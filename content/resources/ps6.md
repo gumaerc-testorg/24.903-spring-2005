@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains assignment on a handout, which provides an overview
   of the system.
-file: /ol-ocw-studio-app/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/7fdf9b83beaf5a4e030e177f9020e26f_ps6.pdf
+file: /courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/7fdf9b83beaf5a4e030e177f9020e26f_ps6.pdf
 file_size: 33818
 file_type: application/pdf
 learning_resource_types:
